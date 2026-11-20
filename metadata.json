@@ -1,0 +1,6 @@
+{
+  "name": "Sayohat Hisobi",
+  "description": "Sayohat xarajatlari va byudjetini mahalliy xotirada qulay kuzatib boruvchi zamonaviy Android ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
